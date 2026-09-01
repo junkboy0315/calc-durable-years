@@ -34,9 +34,9 @@
     "vitest": "^4.1.10"
   },
   "allowScripts": {
-    "*": false
+    "fsevents": false
   },
   "engines": {
-    "node": "24.19.0"
+    "node": "24.20.0"
   }
 }
